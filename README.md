@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thermiee&label=Profile%20views&color=0e75b6&style=flat" alt="thermiee" /> </p>
 
-<h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=w9rx3c">Microverse</a> student 📖.</h3>
+<h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
 
 - 👨🏾‍💻 I’m currently learning *JavaScript, React*
 
