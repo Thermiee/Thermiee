@@ -17,12 +17,6 @@
 - 💻 Fun-fact: "Every programmer is an author."
 
 
-
-
-
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thermiee&theme=nord&row=1&column=6" alt="thermiee" /></a> </p>
 
 <h3 align="left"> Languages and Tools:</h3>
@@ -40,3 +34,4 @@
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thermiee&theme=tokyonight" alt="thermiee" /></p>
 
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thermiee&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thermiee" /></p>
+   
