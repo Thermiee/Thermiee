@@ -1,14 +1,14 @@
 ![Banner](./Banner.gif)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=+Hello+%F0%9F%98%80;I'm+Emmanuel+Temiloluwa......;I+am+a+Software+Developer;Nice+to+meet+you+!%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=+Hello+%F0%9F%98%80;I'm+Emmanuel+Jolugbo......;I+am+a+Software+Developer;Nice+to+meet+you+!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thermiee&label=Profile%20views&color=0e75b6&style=flat" alt="thermiee" /> </p>
 
 <h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
 
-- 👨🏾‍💻 I’m currently learning *JavaScript, React, Redux, Ruby*
+- 👨🏾‍💻 I’m currently learning *JavaScript, React, Redux, Postgres, Ruby*
 
 - 📫 How to reach me **iamthermiee@gmail.com**
 
