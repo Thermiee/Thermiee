@@ -16,6 +16,8 @@
 
 - 💻 Fun-fact: "Every programmer is an author."
 
+- ⭐ Kindly star my projects 🙏🏽.
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thermiee&theme=nord&row=1&column=6" alt="thermiee" /></a> </p>
 
