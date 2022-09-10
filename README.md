@@ -6,13 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thermiee&label=Profile%20views&color=0e75b6&style=flat" alt="thermiee" /> </p>
 
-<h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
+<h3 align="left">I am a Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> graduate 📖.</h3>
 
-- 👨🏾‍💻 I’m currently learning *JavaScript, React, Redux, Postgres, Ruby and Rails*
+- 👨🏾‍💻 I’m skilled in *JavaScript, React, Redux, Postgres, Ruby and Rails*
+
+- 🧑🏻‍🔧 I've built several project using the technologies mentioned above.
 
 - 📫 How to reach me **iamthermiee@gmail.com**
 
-- ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
+- ⚡ Fact: "Programming is the breaking of one big impossible task into several very small possible tasks."
 
 - 💻 Fun-fact: "Every programmer is an author."
 
