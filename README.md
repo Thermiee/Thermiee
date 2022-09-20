@@ -8,7 +8,7 @@
 
 <h3 align="left">I am a Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> graduate 📖.</h3>
 
-- 👨🏾‍💻 I’m skilled in *JavaScript, React, Redux, Postgres, Ruby and Rails*
+- 👨🏾‍💻 I’m skilled in *JavaScript, React, Redux, Postgres, Nodejs, MongoDB and Ruby on Rails*
 
 - 🧑🏻‍🔧 I've built several project using the technologies mentioned above.
 
