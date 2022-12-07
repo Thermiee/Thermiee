@@ -10,7 +10,7 @@
 
 - 👨🏾‍💻 I’m skilled in *JavaScript, React, Redux, Postgres, Nodejs, MongoDB and Ruby on Rails*
 
-- 🧑🏻‍🔧 I've built several project using the technologies mentioned above.
+- 🧑🏻‍🔧 I've built several projects using the technologies mentioned above.
 
 - 📫 How to reach me **iamthermiee@gmail.com**
 
@@ -40,4 +40,4 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thermiee&show_icons=true&locale=en&theme=tokyonight" alt="Thermiee" />
    </p>
 
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thermiee&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thermiee" /></p>
+
