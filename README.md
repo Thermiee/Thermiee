@@ -8,7 +8,7 @@
 
 <h3 align="left">I am a Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> graduate 📖.</h3>
 
-- 👨🏾‍💻 I’m skilled in *JavaScript, React, Redux, Postgres, Nodejs, MongoDB and Ruby on Rails*
+- 👨🏾‍💻 I’m skilled in *JavaScript, React, Redux, Postgres, Nodejs, MongoDB, and Ruby on Rails*
 
 - 🧑🏻‍🔧 I've built several projects using the technologies mentioned above.
 
@@ -16,7 +16,7 @@
 
 - ⚡ Fact: "Programming is the breaking of one big impossible task into several very small possible tasks."
 
-- 💻 Fun-fact: "Every programmer is an author."
+- 💻 Fun fact: "Every programmer is an author."
 
 - ⭐ Kindly star my projects 🙏🏽.
 
@@ -37,6 +37,7 @@
    
 
    <p >
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thermiee&theme=tokyonight" alt="thermiee" /></p>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thermiee&show_icons=true&locale=en&theme=tokyonight" alt="Thermiee" />
    </p>
 
