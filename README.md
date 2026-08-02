@@ -8,7 +8,7 @@
 
 <h3 align="left">I am a Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> graduate 📖.</h3>
 
-- 👨🏾‍💻 I’m skilled in *JavaScript, React, Redux, Postgres, Nodejs, MongoDB, and Ruby on Rails*
+- 👨🏾‍💻 I’m skilled in *JavaScript, React, Redux, Postgres, TypeScript, Node.js, MongoDB, and Ruby on Rails*
 
 - 🧑🏻‍🔧 I've built several projects using the technologies mentioned above.
 
@@ -19,6 +19,8 @@
 - 💻 Fun fact: "Every programmer is an author."
 
 - ⭐ Kindly star my projects 🙏🏽.
+
+- <a href="https://thermiee.github.io/Thermie/">Portfolio </a>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thermiee&theme=nord&row=1&column=6" alt="thermiee" /></a> </p>
