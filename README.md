@@ -23,7 +23,7 @@
 - <a href="https://thermiee.github.io/Thermie/">Portfolio </a>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thermiee&theme=nord&row=1&column=6" alt="thermiee" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thermiee&theme=nord&row=1&column=6" alt="thermiee" /></a> </p> -->
 
 <h3 align="left"> Languages and Tools I Use:</h3>
 <p> 
